@@ -1,18 +1,25 @@
+/*******************ELEMENT TAGS ************************/
 body {
-  background-color: #406882;
+  background-color: #B1D0E0;
 }
 
 hr {
-  background-color: none;
+  background-color: inherit;
   border-style: none none dotted;
   border-width: 5px;
+  border-color: #6998AB;
   width: 50px;
 }
 
 h1 {
-  color: #B1D0E0;
+  color: #406882;
 }
 
 h3 {
-  color: #B1D0E0;
+  color: #406882;
+}
+
+/*********************CLASS SELECTORS *********************/
+.penguin {
+  width: 200px;
 }
